@@ -1,0 +1,80 @@
+person - 0
+bicycle - 4000
+car - 0
+motorcycle - 0
+airplane - 0
+bus - 0
+train - 0
+truck - 0
+boat - 0
+traffic light - 0
+fire hydrant - 0
+stop sign - 0
+parking meter - 0
+bench - 7000
+bird - 0
+cat - 0
+dog - 0
+horse - 0
+sheep - 0
+cow - 0
+elephant - 0
+bear - 0
+zebra - 0
+giraffe - 0
+backpack - 900
+umbrella - 400
+handbag - 700
+tie - 200
+suitcase - 1000
+frisbee - 200
+skis - 0
+snowboard - 1000
+sports ball - 300
+kite - 0
+baseball bat - 500
+baseball glove - 300
+skateboard - 1500
+surfboard - 10000
+tennis racket - 1000
+bottle - 10
+wine glass - 200
+cup - 80
+fork - 80
+knife - 100
+spoon - 80
+bowl - 100
+banana - 30
+apple - 30
+sandwich - 50
+orange - 60
+broccoli - 100
+carrot - 20
+hot dog - 100
+pizza - 500
+donut - 50
+cake - 250
+chair - 3000
+couch - 10000
+potted plant - 200
+bed - 8000
+dining table - 8000
+toilet - 2000
+tv - 10000
+laptop - 150000
+mouse - 400
+remote - 600
+keyboard - 1000
+cell phone - 7000
+microwave - 20000
+oven - 5000
+toaster - 4000
+sink - 1000
+refrigerator - 10000
+book - 100
+clock - 200
+vase - 500
+scissors - 100
+teddy bear - 200
+hair drier - 500
+toothbrush - 20
