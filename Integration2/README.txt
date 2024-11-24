@@ -5,4 +5,6 @@
 5. Once fire detected, press 'y' on keyboard to confirm the fire on the output frame. Otherwise press 'n' on keyboard to confirm false positive on the output frame the the video is continue running.
 6. Click on Generate Paths to display the safest path algorithm.
 
-The Python Version used was "Python 3.9.12"
+Additional Info:
+---> The Python Version used was "Python 3.9.12"
+---> Add your Twilio api keys and env keys for sms to work in Integration2/codes/keys.py
