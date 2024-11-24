@@ -12,3 +12,4 @@ torchvision==0.16.0
 tensorflow==2.15.0
 numpy==1.26.2
 keras==2.15.0
+tk==0.1.0
