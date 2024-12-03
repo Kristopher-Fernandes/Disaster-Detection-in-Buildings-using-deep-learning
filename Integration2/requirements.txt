@@ -6,7 +6,7 @@ ultralytics==8.0.200
 streamlit==1.29.0
 ttkbootstrap==1.10.1
 twilio==8.13.0
-torch==2.1.0
+torch==2.1.2
 torchaudio==2.1.2
 torchvision==0.16.0
 tensorflow==2.15.0
