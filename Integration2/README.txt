@@ -6,5 +6,5 @@
 6. Click on Generate Paths to display the safest path algorithm.
 
 Additional Info:
----> The Python Version used was "Python 3.9.12"
+---> The Python Version used was "Python 3.9.0"
 ---> Add your Twilio api keys and env keys for sms to work in Integration2/codes/keys.py
