@@ -1,2 +1,1 @@
-tv : Rs 10000.0
-Total Estimated Damage Cost: INR 10000.0
+
